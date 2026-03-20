@@ -1,0 +1,39 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+.claude/
+.playwright-mcp/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Generated assets
+logo.png
+TUTORIAL.md
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Claude Code
+.claude/
